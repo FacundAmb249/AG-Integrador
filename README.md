@@ -1,2 +1,2 @@
-# AG-Integrador
-Repositorio general para el contenido del Trabajo Práctico Integrador de Algoritmos Genéticos.
+# Algoritmos Genéticos - Trabajo Práctico Integrador
+Repositorio para almacenar todo lo relacionado con el TP Integtador.
